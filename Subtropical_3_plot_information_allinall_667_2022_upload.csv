@@ -1,0 +1,30 @@
+id_plot,Sampling sites
+latitude,Latitude
+longitude,Longitude
+altitude,Altitude
+aspect,Aspect
+MAT,Mean annual temperature (¡æ)
+MAP,Mean annual precipitation (mm)
+slope,Slope of sampling site
+Forest_type,Forest_type
+age,Forest age (year)
+origin,Origin
+sucstage,Successtion stages
+area,Sampling area
+Root_C_stock,Root C stock (mg/ha)
+Tree_C_stock,Tree C stock (mg/ha) 
+Herb_layer_C_stock,Herb layer C stock (mg/ha)
+Litter_layer_C_stock,Litter layer C stock (mg/ha)
+Shrub_layer_C_stock,Shrub layer C stock (mg/ha)
+Total_aboveground_C_stock,Total aboveground C stock (mg/ha)
+Total_soil_C_stock,Total soil C stock (mg/ha)
+Total_belowground_C_stock,Total belowground C stock (mg/ha)
+Total_forest_C_stock,Total forest C stock (mg/ha)
+AM_tree_C_stock,AM tree C stock (mg/ha)
+EcM_tree_C_stock,EcM tree C stock (mg/ha)
+species_richness3cm,Species richness (DBH>3cm) in each plot (600m2)
+species_richness10cm,Species richness (DBH>10cm) in each plot (600m2)
+Hii_shannon_diversity3cm,Hii shannon diversity (DBH>3cm) in each plot (600m2)
+all_tree_number_per_600_3cm,All tree number (DBH>3cm) in each plot (600m2)
+tree_number_area_per_600m2_10cm,All tree number (DBH>10cm) in each plot (600m2)
+Hii_shannon_diversity10cm,Hii shannon diversity (DBH>10cm) in each plot (600m2)
